@@ -3,8 +3,6 @@
 <a name='2'></a>
 ##  The Problem of Very Deep Neural Networks
 
-Last week, you built your first convolutional neural networks: first manually with numpy, then using Tensorflow and Keras. 
-
 In recent years, neural networks have become much deeper, with state-of-the-art networks evolving from having just a few layers (e.g., AlexNet) to over a hundred layers.
 
 * The main benefit of a very deep network is that it can represent very complex functions. It can also learn features at many different levels of abstraction, from edges (at the shallower layers, closer to the input) to very complex features (at the deeper layers, closer to the output). 
