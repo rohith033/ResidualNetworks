@@ -17,7 +17,7 @@ In recent years, neural networks have become much deeper, with state-of-the-art 
 
 
 
-## 3 - Building a Residual Network
+## Building a Residual Network
 
 In ResNets, a "shortcut" or a "skip connection" allows the model to skip layers:  
 
